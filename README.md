@@ -11,7 +11,7 @@
 ## Installation
 ketikkan :
 ```bash
-https://github.com/madmouse17/crud-penduduk.git
+git clone https://github.com/madmouse17/crud-penduduk.git
 composer install
 ```
 copy ``.env.example`` menjadi ``.env``
